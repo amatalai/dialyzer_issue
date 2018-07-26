@@ -1,0 +1,2 @@
+defmodule DialyzerIssue do
+end
